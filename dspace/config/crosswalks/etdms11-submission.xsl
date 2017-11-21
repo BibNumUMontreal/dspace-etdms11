@@ -4,7 +4,7 @@
         xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"
         xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.1/"
         version="1.0">
-l
+
     <xsl:template match="/">
         <dim:dim>
             <xsl:apply-templates select="*[local-name()='thesis']/*"/>
