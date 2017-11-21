@@ -4,6 +4,14 @@
 
 Reference implementation of ETDMS 1.1 support for DSpace 5.x
 
+
+## Metadata Format
+
+Namespace: http://www.ndltd.org/standards/metadata/etdms/1.1/ 
+
+SchemaLocation: http://www.ndltd.org/standards/metadata/etdms/1-1/etdms11.xsd
+
+
 ## Installation
 
 ### Dissemination Crosswalk (oai module)
